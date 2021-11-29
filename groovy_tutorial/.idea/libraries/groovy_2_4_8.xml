@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="groovy-2.4.8">
+    <CLASSES>
+      <root url="jar:///usr/share/groovy/lib/ivy.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/xstream.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/jansi.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-jmx-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-jsr223-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/servlet-api.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-testng-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/jline.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/jsp-api.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-servlet-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/junit.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-xml-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/jcommander.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/ant-junit.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/hamcrest-core.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/multiverse-core.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-test-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/ant-antlr.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-json-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-bsf-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-swing-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/gpars.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/bsf.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/extra166y.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/testng.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/ant-launcher.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/commons-logging.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-nio-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-ant-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-docgenerator-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-groovydoc-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-console-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/commons-cli.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-sql-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/qdox.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/xpp3-minimal.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-groovysh-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-2.4.8.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/ant.jar!/" />
+      <root url="jar:///usr/share/groovy/lib/groovy-templates-2.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
